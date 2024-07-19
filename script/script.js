@@ -1,5 +1,5 @@
 function slider(targetImgSrc){
-    document.querySelector('.pepsi').src = `./images/${targetImgSrc}`;
+    document.querySelector('.guarana').src = `./images/${targetImgSrc}`;
 }
 
 function changeBg(color) {
